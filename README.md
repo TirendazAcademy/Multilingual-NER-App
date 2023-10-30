@@ -8,8 +8,6 @@
 
 This project aims to show how to build [a multilingual NER app](https://huggingface.co/spaces/Tirendaz/Multilingual-NER). To do this, I used [Transformers](https://huggingface.co/docs/transformers/index) for fine-tuning a RoBERTa-based model, [Gradio](https://www.gradio.app/docs/interface) for building the text classification app and [Comet ML](https://www.comet.com/site/products/llmops/) for monitoring the app.
 
-# You can check out [my medium blog post for this project](https://medium.com/cometheartbeat/building-a-text-classifier-app-with-hugging-face-bert-and-comet-278e4cd0d0aa).
-
 You can review this app on [my HuggingFace space](https://huggingface.co/spaces/Tirendaz/Multilingual-NER).
 
 # Text Classification App
