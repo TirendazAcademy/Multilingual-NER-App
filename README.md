@@ -6,6 +6,8 @@
 [![](https://img.shields.io/badge/CometML-0002A1?style=plastic&logo=cometml&logoColor=white)]()
 [![](https://img.shields.io/badge/Gradio-A31ACB?style=plastic&logo=gradio&logoColor=white)]()
 
+![](https://github.com/TirendazAcademy/Multilingual-NER-App/blob/main/Images/NER-Roadmap.png)
+
 This project aims to show how to build [a multilingual NER app](https://huggingface.co/spaces/Tirendaz/Multilingual-NER). To do this, I used [Transformers](https://huggingface.co/docs/transformers/index) for fine-tuning a RoBERTa-based model, [Gradio](https://www.gradio.app/docs/interface) for building the text classification app and [Comet ML](https://www.comet.com/site/products/llmops/) for monitoring the app.
 
 You can review this app on [my HuggingFace space](https://huggingface.co/spaces/Tirendaz/Multilingual-NER).
